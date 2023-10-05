@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "EB Garamond";
+  src: url(C:\Users\Foxyl\dev\second-project\fonts\ebgaramondmedium.woff2)
+      format("woff2"),
+    url(C:\Users\Foxyl\dev\second-project\fonts\ebgaramondmedium.woff)
+      format("woff"),
+    url(C:\Users\Foxyl\dev\second-project\fonts\ebgaramondmedium.ttf)
+      format("truetype");
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "EB Garamond";
+  src: url(C:\Users\Foxyl\dev\second-project\fonts\ebgaramondregular.woff2)
+    format("woff2")
+    url(C:\Users\Foxyl\dev\second-project\fonts\ebgaramondregular.woff)
+    format("woff")
+    url(C:\Users\Foxyl\dev\second-project\fonts\ebgaramondregular.ttf)
+    format("truetype");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url(C:\Users\Foxyl\dev\second-project\fonts\interregular.woff2)
+    format("woff2")
+    url(C:\Users\Foxyl\dev\second-project\fonts\interregular.woff)
+    format("woff") url(C:\Users\Foxyl\dev\second-project\fonts\interregular.ttf)
+    format("truetype");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url(C:\Users\Foxyl\dev\second-project\fonts\interbold.woff2)
+    format("woff2") url(C:\Users\Foxyl\dev\second-project\fonts\interbold.woff)
+    format("woff") url(C:\Users\Foxyl\dev\second-project\fonts\interbold.ttf)
+    format("ttf");
+  font-weight: 700;
+  font-display: swap;
+}
