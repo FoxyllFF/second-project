@@ -42,3 +42,22 @@
   font-weight: 700;
   font-display: swap;
 }
+
+@font-face {
+  font-family: "Inter";
+  src: url(C:\Users\Foxyl\dev\second-project\fonts\interbold.woff2)
+    format("woff2") url(C:\Users\Foxyl\dev\second-project\fonts\interbold.woff)
+    format("woff") url(C:\Users\Foxyl\dev\second-project\fonts\interbold.ttf)
+    format("ttf");
+  font-weight: 700;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Inter";
+  src: url(C:\Users\Foxyl\dev\second-project\fonts\interbold.woff2)
+    format("woff2") url(C:\Users\Foxyl\dev\second-project\fonts\interbold.woff)
+    format("woff") url(C:\Users\Foxyl\dev\second-project\fonts\interbold.ttf)
+    format("ttf");
+  font-weight: 700;
+  font-display: swap;
+}
